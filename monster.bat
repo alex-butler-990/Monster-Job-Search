@@ -1,0 +1,1 @@
+@py c:\users\USERNAME\FOLDERLOCATION\monster.py %*
